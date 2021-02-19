@@ -1,2 +1,2 @@
 # Ancestors-Calculator
-Calculer le nombre de ses ancêtres (théoriques) en fonction du nombre de generations.
+Calculer le nombre (théorique) de ses ancêtres en fonction du nombre de generations.
