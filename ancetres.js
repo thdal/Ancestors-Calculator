@@ -12,7 +12,7 @@ for(var i = 0 ; i < generationNumber; i++){
 
 
 console.log(individu);
-console.log("Pour "+generationNumber+" générations équivalent à " + generationDuration + "ans, alors en " + generationNumber*generationDuration + " ans" +
+console.log("Pour "+generationNumber+" générations de " + generationDuration + "ans chacune, alors en " + generationNumber*generationDuration + " ans" +
     " un individu, aujourd'hui, posséderait THEORIQUEMENT " + individu + " ancetres");
 
 
